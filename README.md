@@ -74,9 +74,9 @@ jupyter notebook main.ipynb
 
 ## 🗺️ Roadmap
 
-- [ ] Exploratory data analysis (EDA)
-- [ ] Visualizations to surface insights
-- [ ] Deeper trend analysis across the dataset
+- 🔜 Exploratory data analysis (EDA)
+- 📊 Visualizations to surface insights
+- 📈 Deeper trend analysis across the dataset
 
 ---
 
